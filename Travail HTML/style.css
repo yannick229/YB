@@ -1,0 +1,398 @@
+.navbar{
+    background-color: #ffb5ff;
+    
+}
+.container{
+    padding-bottom: 50px;
+}
+#active{
+    color:white;
+}
+
+.navbar .collapse ul li a{
+    color: black;
+    font-size: medium;
+}
+.navbar .collapse ul li a:hover{
+    color: white;
+}
+
+.navbar img{
+    margin-right: 10px ;
+}
+
+#Accroche{
+    
+    text-align: left;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.container .btn{
+    background-color: #ffb5ff;
+    border-color: #ffb5ff;
+    color: white;
+    
+}
+.container .btn:hover{
+background-color: #ff66ff;
+border-color: #ff66ff;
+}
+.container .fw-lighter{
+    margin-top: 5px;
+    font-size: xx-small;
+}
+.navbar .d-flex .btn{
+    color: white;
+    border-color: white;
+}
+
+footer{
+    background-color: #ffb5ff;
+    padding: 40px;
+    text-align: center;
+}
+
+#P2{
+    color: #ff66ff;
+    text-align: center;
+}
+
+.inscription form {
+    max-width: 600px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.inscription fieldset {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.inscription legend {
+    
+    color:#ff66ff;
+}
+
+.inscription input, .inscription select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.inscription button {
+    margin-top: 20px;
+}
+
+.inscription h1{
+    text-align: center;
+    color: #ff6347;
+}
+
+.inscription .formulaire .btn{
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    background-color:#ffb5ff;
+    border-color: #ffb5ff;
+}
+.inscription .formulaire .btn:hover{
+    background-color:#ff66ff;
+}
+.inscription p{
+    margin-top: 50px;
+    font-size: medium;
+    margin-left: 30px;
+}
+
+.inscription li{
+    
+    font-size: small;
+    margin-left: 20px;
+   
+}
+
+.programme {
+    text-align: center;
+    padding: 50px;
+}
+
+.programme table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.programme th, .programme td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.programme th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+.btn {
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.programme h4{
+    text-align: center;
+    color:#ff66ff;
+}
+.programme p>a{
+    color: #ff66ff;
+}
+.programme p>a:hover{
+    color: #ffb5ff;
+}
+.programme .btn{
+    background-color: #ffb5ff;
+    color: white;
+}
+.programme .btn:hover{
+    background-color: #ff66ff;
+    color: white;
+}
+.contact {
+    padding: 50px;
+    text-align: left;
+    color: black;
+}
+
+.contact h1 {
+    text-align: center;
+    color:#ff66ff;
+    margin-bottom: 30px;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+.form-group textarea {
+    resize: vertical;
+}
+
+.contact .btn {
+    display: block;
+    width: 100%;
+    background-color:#ff66ff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.contact .btn:hover {
+    background-color:#ffb5ff;
+color: white;}
+
+.contact-info {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.contact-info h2 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+.about {
+    padding: 50px;
+    text-align: left;
+    color: black;
+}
+
+#violet {
+    
+    color:#ff66ff;
+    
+}
+.about h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about h2 {
+    color: #333;
+    margin-top: 20px;
+    border-bottom: 2px solid #ff66ff;
+    padding-bottom: 5px;
+}
+
+.about p {
+    line-height: 1.6;
+    margin-top: 15px;
+}
+#decouvertes{
+    text-align: left;
+}
+#decouverte{
+    text-align: center;
+}
+#objectif{
+    margin-top: 70px;
+}
+#Evolution{
+    margin-top: 70px;
+}
+.partners {
+    padding: 50px;
+    text-align: center;
+    color: black;
+}
+
+.partners h1 {
+    color: #ff6347;
+    margin-bottom: 30px;
+}
+
+.partners p {
+    font-size: 1.1rem;
+    margin-bottom: 40px;
+}
+
+.partner-logos {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.partner {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 200px;
+}
+
+.partner img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.partner p {
+    margin: 0;
+}
+
+.partner a {
+    text-decoration: none;
+    color: #ff6347;
+    font-weight: bold;
+}
+
+.partner a:hover {
+    color: #e5533c;
+}
+#Spons{
+    text-align: center;
+    margin-top: 30px;
+    
+
+}
+.logo{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 80px;
+    margin-bottom: 60px;
+}
+.intervenants {
+    text-align: center;
+    padding: 50px;
+    color: black;
+    
+}
+
+.intervenants {
+   
+    
+    
+    
+    background-color: white;
+    padding: 20px;
+    
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.intervenants img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.intervenants h2 {
+    color: black;
+}
+.intervenants h1 {
+    color: #ff6347;
+}
+.social-links {
+    list-style: none;
+    padding: 0;
+}
+
+.social-links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    
+}
+
+.social-links a:hover {
+    color: #ff66ff;
+}
+.intervenants h1{
+    text-align: right;
+    color: #ff66ff;
+    margin-bottom: 50px;
+    font-size: x-large;
+}
